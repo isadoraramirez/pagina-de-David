@@ -1,0 +1,34 @@
+@import '../../scss/index.scss';
+
+.container_services{
+    margin-bottom: 50px;
+}
+
+
+.description-servicios {
+    font-family: Lato;
+    font-weight: 300 !important;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 50px;
+    text-align: center;
+    
+}
+
+.servicesCol{
+    align-self: center;
+}
+
+// Extra small devices (portrait phones, less than 576px)
+@media (max-width: 575.98px) { 
+  //AbstractSubHeader
+  .description-servicios{
+    font-family: Lato;
+    font-weight: 300 !important;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-right: 50px;
+    text-align: center;
+   
+}
+}

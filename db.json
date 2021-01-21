@@ -1,0 +1,96 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Prospectiva Política: Guía para su compresión y práctica.",
+            "name": "Lechuga Huerta David",
+            "description": "DRA. Guillermina Baena Paz.",
+            "bucket": "https://eefu.s3.amazonaws.com/blog-eefu/Gui%CC%81a-compresio%CC%81n-pra%CC%81ctica.pdf"
+        },
+        {
+            "id": 2,
+            "title": "Prospectiva Estratégica, Cuadernos del LIPSOR.",
+            "name": "Lechuga Huerta David",
+            "description": "DR. Michael Godet.",
+            "bucket": "https://eefu.s3.amazonaws.com/blog-eefu/porspectiva.pdf"
+        },
+        {
+            "id": 3,
+            "title": "Prospectiva, gobernabilidad, y riesgo político: instrumentos para la acción.",
+            "name": "Lechuga Huerta David",
+            "description": "DR. Tomás Micklos.",
+            "bucket": "https://eefu.s3.amazonaws.com/blog-eefu/Prospectiva-gobernabilidad-riesgo.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Enfrentando el futuro.",
+            "name": "Lechuga Huerta David",
+            "description": "DR. Yehezkel Dror",
+            "bucket": "https://eefu.s3.amazonaws.com/blog-eefu/Dror.pdf"
+        },
+        {
+            "id": 5,
+            "title": "Prospectivaaaa Política: Guía para su compresión y práctica.",
+            "name": "Lechuga Huerta David",
+            "description": "DRA. Guillermina Baena Paz.",
+            "bucket": "https://eefu.s3.amazonaws.com/AWS+Certified+Cloud+Practitioner+certificate.pdf"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "title": "Foto auditorio.",
+            "bucket": "https://eefu.s3.amazonaws.com/galeria-eefu/auditorio.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Biblioteca.",
+            "bucket": "https://eefu.s3.amazonaws.com/galeria-eefu/biblio.jpeg"
+        },
+        {
+            "id": 3,
+            "title": "Caminos.",
+            "bucket": "https://eefu.s3.amazonaws.com/galeria-eefu/caminos.jpg"
+        },
+        {
+            "id": 5,
+            "title": "gym.",
+            "bucket": "https://eefu.s3.amazonaws.com/galeria-eefu/gym.jpeg"
+        },
+        {
+            "id": 7,
+            "title": "Sol.",
+            "bucket": "https://eefu.s3.amazonaws.com/galeria-eefu/sol.jpeg"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "title": "Enfrentando el futuro.",
+            "name": "Lechuga Huerta David",
+            "description": "DR. Yehezkel Dror.",
+            "bucket": "https://eefu.s3.amazonaws.com/trabajos/quinto+libro.pdf"
+        },
+        {
+            "id": 2,
+            "title": "México Visión 2030.",
+            "name": "Lechuga Huerta David",
+            "description": "Naciones Unidas.",
+            "bucket": "https://eefu.s3.amazonaws.com/trabajos/cuarto+libro.pdf"
+        },
+        {
+            "id": 3,
+            "title": "LatinoAmérica 2030.",
+            "name": "Lechuga Huerta David",
+            "description": "Proyecto Millenium",
+            "bucket": "https://eefu.s3.amazonaws.com/trabajos/latino2030.pdf"
+        },
+        {
+            "id": 4,
+            "title": "Prospectiva Política: Guía para su Comprensión y Práctica.",
+            "name": "Lechuga Huerta David",
+            "description": "Guillermina Baena Paz .",
+            "bucket": "https://eefu.s3.amazonaws.com/trabajos/primer+libro+.pdf"
+        }
+    ]
+}
